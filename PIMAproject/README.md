@@ -1,3 +1,5 @@
+# PIMA Diabetes
+
 It is a side project made in order to exercise concepts learned in the book, mostly ROC Curve and AUC.
 
 Analysing the PIMA Indians Diabetes Database:
