@@ -4,7 +4,7 @@
 
 This project explores the **application of Machine Learning techniques** to detect invading drones based on encrypted Wi-Fi traffic data. By analyzing patterns in wireless signals, the goal is to classify whether a detected Wi-Fi signal originates from a drone or another source, enabling effective drone monitoring and mitigation strategies.
 
-This work was presented at SIGE conference: (Paper)[https://www.researchgate.net/publication/362243302_Deteccao_de_Drones_Intrusos]
+This work was presented at SIGE conference: [Paper](https://www.researchgate.net/publication/362243302_Deteccao_de_Drones_Intrusos)
 
 ---
 
